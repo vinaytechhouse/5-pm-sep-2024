@@ -1,0 +1,26 @@
+Live Practice: 03-08-2024
+=================
+
+1. Open browser(IE or Chromes), type "portal.azure.com" and connect to the below credentials
+
+	user name: vinaytech_190724@vinaytechhouse.com
+	password: vinaytech@2024
+
+	Go to the More Services-> and see all the services in the left hand side panel
+	Especially "Analytics"
+
+	Data Factories
+	Azure Analytics Workspace
+	Data Lake Gen1
+
+
+
+2.    Open browser(IE or Chromes), type app.powerbi.com and connect to the below credentials
+	user name: vinaytech_190724@vinaytechhouse.com
+	password: vinaytech@2024
+
+	Go to the left hand side workspace area...observe workspace
+
+
+
+
