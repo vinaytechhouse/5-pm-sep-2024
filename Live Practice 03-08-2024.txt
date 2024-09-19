@@ -1,3 +1,7 @@
+This is Power BI Session.
+Today is not sunday.
+
+
 Live Practice: 03-08-2024
 =================
 
@@ -11,7 +15,7 @@ Live Practice: 03-08-2024
 
 	Data Factories
 	Azure Analytics Workspace
-	Data Lake Gen1
+	Data Lake Gen1, Gen2
 
 
 
